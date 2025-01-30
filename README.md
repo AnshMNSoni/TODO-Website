@@ -4,7 +4,7 @@ A simple and intuitive To-Do Website built using **Flask**, designed to help use
 
 ---
 
-## Project Overview 🌟
+## 👉 Project Overview 🌟
 
 This project is organized into the following structure:
 - **`instance/`**: Contains the database files.
@@ -15,7 +15,7 @@ This project is organized into the following structure:
 
 ---
 
-## Features ✨
+## 👉 Features ✨
 - Add, edit, and delete tasks with ease.
 - Organize your daily to-dos efficiently.
 - Interactive user interface with responsive design.
@@ -23,12 +23,12 @@ This project is organized into the following structure:
 
 ---
 
-## Project Structure 📂
+## 👉 Project Structure 📂
 
 
 ---
 
-## Setup and Installation ⚙️
+## 👉 Setup and Installation ⚙️
 
 ### Prerequisites
 - Python 3.x installed on your system.
@@ -57,7 +57,7 @@ This project is organized into the following structure:
 
 ---
 
-## License 📜
+## 👉 License 📜
 
 This project is licensed under the [MIT License](LICENSE).
 
